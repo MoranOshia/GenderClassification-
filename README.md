@@ -7,31 +7,6 @@
 ### Moderator: Dr. Lee-Ad Gottlieb
 
 
-## Table of contents:
-
- 1.Introduction
-
- 2. Database
-
- 3. Project Description
-
- 4. The techniques
-
-   4.1 SVM
-
-   4.2 KNN
-
-   4.3 Logistic Regression
-
-   4.4 Decision Tree
-
-   4.5 CNN
-
- 5. Challenges
-
- 6. Conclusions
-
-
 ## Introduction:
 
 In this paper, we will summarize our ML final project.
