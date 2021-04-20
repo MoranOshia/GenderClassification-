@@ -27,7 +27,7 @@
 
    4.4 Decision Tree
 
-    4.5 CNN
+   4.5 CNN
 
  5. Challenges
 
@@ -133,7 +133,7 @@ and women.
 We sent 4 types of kernel: with random state =1, Linear, polyand and rbf.
 
 The results:
-
+![alt text](https://github.com/MoranOshia/GenderClassification-/blob/main/Photos/svm.PNG)
 
 ### KNN:
 
@@ -158,10 +158,10 @@ the best result was when k = 7
 The results:
 
 K = 3:
-
+![alt text](https://github.com/MoranOshia/GenderClassification-/blob/main/Photos/knn3.PNG)
 
 Find the best k:
-
+![alt text](https://github.com/MoranOshia/GenderClassification-/blob/main/Photos/knn.PNG)
 
 ### Logistic Regression:
 
@@ -179,6 +179,7 @@ We implemented the model with the library called Sklearn as well like
 the KNN model.
 
 The results:
+![alt text](https://github.com/MoranOshia/GenderClassification-/blob/main/Photos/lr.PNG)
 
 ### Decision Tree:
 
@@ -186,7 +187,7 @@ The goal is to create a model that predicts the value of a target variable
 by learning simple decision rules derived from data attributes.
 
 The results:
-
+![alt text](https://github.com/MoranOshia/GenderClassification-/blob/main/Photos/dt.PNG)
 
 ### CNN:
 
@@ -198,9 +199,10 @@ to differentiate one from the other.
 The results:
 
 Cnn:
+![alt text](https://github.com/MoranOshia/GenderClassification-/blob/main/Photos/cnn.PNG)
 
 Cnn 2D:
-
+![alt text](https://github.com/MoranOshia/GenderClassification-/blob/main/Photos/cnn2s.PNG)
 
 ## Challenges:
 
