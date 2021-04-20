@@ -1,6 +1,4 @@
 ## Machine Learning – project:
-# GenderClassification-
-
 
 # Gender Classification By Voice Records
 
